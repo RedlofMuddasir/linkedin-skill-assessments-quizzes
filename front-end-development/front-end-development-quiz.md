@@ -585,4 +585,10 @@ console.log(currencies);
 - [ ] The screen reader will announce all changes immediately.
 - [ ] The screen reader will use a polite voice when announcing changes.
 
+
+#### Q62 In a grid layout, which property will create gaps between the rows in the grid?
+
+- [x] row-gap
+- [ ] rowgap
+
 [Source: MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)
