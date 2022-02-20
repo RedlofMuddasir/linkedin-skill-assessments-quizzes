@@ -585,4 +585,6 @@ console.log(currencies);
 - [ ] The screen reader will announce all changes immediately.
 - [ ] The screen reader will use a polite voice when announcing changes.
 
+
+
 [Source: MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)
